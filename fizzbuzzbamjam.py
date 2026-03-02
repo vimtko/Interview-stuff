@@ -24,3 +24,5 @@ for i in range(101):
     # bam when its %7
     if i %7==0 :
         print(f'{i} jam')
+    else:
+        print(f'{i} ')
