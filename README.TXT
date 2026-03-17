@@ -6,8 +6,9 @@ Its mostly to show off my coding habilities and practice for the future
 
 # Languages
 * Python
-* Java
+* PHP
 * C++
+* Java
 
 
 # Exercices
