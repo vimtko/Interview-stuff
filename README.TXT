@@ -9,6 +9,22 @@ Its mostly to show off my coding habilities and practice for the future
 * PHP
 * C++
 * Java
+* Javascript
+* C#
+* C
+* Ruby
+* Go
+* Bash
+* lua 
+* Fortran
+* Ada
+* MATLAB
+*LabVIEW
+* SQL
+* CSS
+* Docker
+* Kubernetes
+
 
 
 # Exercices
@@ -26,5 +42,9 @@ Its mostly to show off my coding habilities and practice for the future
     (factorial: every number before needs to be multiplied by, represented by variable!)
     (ej: 5!= 1*2*3*4*5 = 120)
 
+3- Reversing a string
+    Make a function that given a string, it returns it on reverse
+    (ej: intput= abcd outpu= dcba)
 
-If IA was used on a excercise, it should be mentioned on the excercise
+
+If IA was used on a excercise, it should be mentioned on the excercise.
