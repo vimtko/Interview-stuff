@@ -46,5 +46,10 @@ Its mostly to show off my coding habilities and practice for the future
     Make a function that given a string, it returns it on reverse
     (ej: intput= abcd outpu= dcba)
 
+4- Data Pipeline
+    Takes crude data from a input and process them 
+    Datapipeline\Data -> place holder for data
+    Datapipeline\Scripts -> place holder for scripts
+    TODO: Failsafe cases
 
 If IA was used on a excercise, it should be mentioned on the excercise.
