@@ -1,6 +1,5 @@
 # Hello i'm Vimtko
 I'm a Developer and Telecommunications Engineer (in progress) with a strong interest in astronomy and space-related technologies
-
 This repository is part of my personal journey where I document what I learn, build, and explore along the way.
 
 Blog: (in progress~)
